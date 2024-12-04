@@ -142,6 +142,3 @@ Conclusion
 Terraform simplifies the provisioning, management, and automation of infrastructure, ensuring consistency and scalability across environments. With its declarative approach and provider-agnostic nature, it is an indispensable tool for modern infrastructure as code workflows.
 
 Start using Terraform today to streamline your infrastructure management! 🚀
- 
-
-Save this content as `terraform_guide.md` for use in your documentation or project.
