@@ -132,5 +132,5 @@ Feel free to explore the /docs directory for further insights and documentation.
 Acknowledgments
 Thank you for exploring this repository. I hope it provides valuable insights into managing infrastructure with Terraform and automating workflows. Happy coding! 🚀
 
-Sample Repo for Terraform:
-Terraform-Infrastructure
+> **Sample repo for devops:**  
+> [Terraform-devops](https://github.com/aarrssaalll/DevOpsSample2024)
